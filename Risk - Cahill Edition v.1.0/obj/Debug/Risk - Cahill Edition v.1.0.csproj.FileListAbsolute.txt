@@ -1,0 +1,59 @@
+F:\Computer Programming\FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\bin\Debug\Risk - Cahill Edition v.1.0.exe.config
+F:\Computer Programming\FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\bin\Debug\Risk - Cahill Edition v.1.0.exe
+F:\Computer Programming\FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\bin\Debug\Risk - Cahill Edition v.1.0.pdb
+F:\Computer Programming\FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk - Cahill Edition v.1.0.csprojResolveAssemblyReference.cache
+F:\Computer Programming\FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk___Cahill_Edition_v._1._0.frmRisk.resources
+F:\Computer Programming\FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk___Cahill_Edition_v._1._0.Properties.Resources.resources
+F:\Computer Programming\FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk - Cahill Edition v.1.0.csproj.GenerateResource.Cache
+F:\Computer Programming\FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk - Cahill Edition v.1.0.exe
+F:\Computer Programming\FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk - Cahill Edition v.1.0.pdb
+F:\Computer Programming\FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk___Cahill_Edition_v._1._0.frmMainMenu.resources
+F:\Computer Programming\FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk___Cahill_Edition_v._1._0.frmBattle.resources
+G:\Computer Programming\FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\bin\Debug\Risk - Cahill Edition v.1.0.exe.config
+G:\Computer Programming\FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk - Cahill Edition v.1.0.exe
+G:\Computer Programming\FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk - Cahill Edition v.1.0.pdb
+G:\Computer Programming\FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\bin\Debug\Risk - Cahill Edition v.1.0.exe
+G:\Computer Programming\FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\bin\Debug\Risk - Cahill Edition v.1.0.pdb
+G:\Computer Programming\FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk - Cahill Edition v.1.0.csprojResolveAssemblyReference.cache
+G:\Computer Programming\FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk___Cahill_Edition_v._1._0.frmRisk.resources
+G:\Computer Programming\FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk___Cahill_Edition_v._1._0.frmBattle.resources
+G:\Computer Programming\FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk___Cahill_Edition_v._1._0.frmMainMenu.resources
+G:\Computer Programming\FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk___Cahill_Edition_v._1._0.Properties.Resources.resources
+G:\Computer Programming\FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk - Cahill Edition v.1.0.csproj.GenerateResource.Cache
+F:\Computer Programming\FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk___Cahill_Edition_v._1._0.frmSendTroops.resources
+F:\Computer Programming\FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk___Cahill_Edition_v._1._0.frmWin.resources
+G:\Computer Programming\FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk___Cahill_Edition_v._1._0.frmSendTroops.resources
+G:\Computer Programming\FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk___Cahill_Edition_v._1._0.frmWin.resources
+G:\Computer Programming\FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk___Cahill_Edition_v._1._0.frmSuperPowerGuide.resources
+G:\Computer Programming\FINALE FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\bin\Debug\Risk - Cahill Edition v.1.0.exe.config
+G:\Computer Programming\FINALE FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk - Cahill Edition v.1.0.exe
+G:\Computer Programming\FINALE FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk - Cahill Edition v.1.0.pdb
+C:\Users\Andrea\Documents\Directory\PRG\CSharpie\FINALE FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\bin\Debug\Risk - Cahill Edition v.1.0.exe.config
+C:\Users\Andrea\Documents\Directory\PRG\CSharpie\FINALE FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\bin\Debug\Risk - Cahill Edition v.1.0.exe
+C:\Users\Andrea\Documents\Directory\PRG\CSharpie\FINALE FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\bin\Debug\Risk - Cahill Edition v.1.0.pdb
+C:\Users\Andrea\Documents\Directory\PRG\CSharpie\FINALE FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk - Cahill Edition v.1.0.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Documents\Directory\PRG\CSharpie\FINALE FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk___Cahill_Edition_v._1._0.frmRisk.resources
+C:\Users\Andrea\Documents\Directory\PRG\CSharpie\FINALE FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk___Cahill_Edition_v._1._0.frmBattle.resources
+C:\Users\Andrea\Documents\Directory\PRG\CSharpie\FINALE FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk___Cahill_Edition_v._1._0.frmMainMenu.resources
+C:\Users\Andrea\Documents\Directory\PRG\CSharpie\FINALE FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk___Cahill_Edition_v._1._0.frmSendTroops.resources
+C:\Users\Andrea\Documents\Directory\PRG\CSharpie\FINALE FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk___Cahill_Edition_v._1._0.frmSuperPowerGuide.resources
+C:\Users\Andrea\Documents\Directory\PRG\CSharpie\FINALE FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk___Cahill_Edition_v._1._0.frmWin.resources
+C:\Users\Andrea\Documents\Directory\PRG\CSharpie\FINALE FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk___Cahill_Edition_v._1._0.Properties.Resources.resources
+C:\Users\Andrea\Documents\Directory\PRG\CSharpie\FINALE FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk - Cahill Edition v.1.0.csproj.GenerateResource.Cache
+C:\Users\Andrea\Documents\Directory\PRG\CSharpie\FINALE FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk - Cahill Edition v.1.0.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Documents\Directory\PRG\CSharpie\FINALE FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk - Cahill Edition v.1.0.exe
+C:\Users\Andrea\Documents\Directory\PRG\CSharpie\FINALE FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk - Cahill Edition v.1.0.pdb
+C:\Users\Andrea\Documents\Directory\PRG\CSHARP\FINALE FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\bin\Debug\Risk - Cahill Edition v.1.0.exe.config
+C:\Users\Andrea\Documents\Directory\PRG\CSHARP\FINALE FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\bin\Debug\Risk - Cahill Edition v.1.0.exe
+C:\Users\Andrea\Documents\Directory\PRG\CSHARP\FINALE FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\bin\Debug\Risk - Cahill Edition v.1.0.pdb
+C:\Users\Andrea\Documents\Directory\PRG\CSHARP\FINALE FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk - Cahill Edition v.1.0.csprojAssemblyReference.cache
+C:\Users\Andrea\Documents\Directory\PRG\CSHARP\FINALE FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk___Cahill_Edition_v._1._0.frmRisk.resources
+C:\Users\Andrea\Documents\Directory\PRG\CSHARP\FINALE FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk___Cahill_Edition_v._1._0.frmBattle.resources
+C:\Users\Andrea\Documents\Directory\PRG\CSHARP\FINALE FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk___Cahill_Edition_v._1._0.frmMainMenu.resources
+C:\Users\Andrea\Documents\Directory\PRG\CSHARP\FINALE FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk___Cahill_Edition_v._1._0.frmSendTroops.resources
+C:\Users\Andrea\Documents\Directory\PRG\CSHARP\FINALE FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk___Cahill_Edition_v._1._0.frmSuperPowerGuide.resources
+C:\Users\Andrea\Documents\Directory\PRG\CSHARP\FINALE FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk___Cahill_Edition_v._1._0.frmWin.resources
+C:\Users\Andrea\Documents\Directory\PRG\CSHARP\FINALE FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk___Cahill_Edition_v._1._0.Properties.Resources.resources
+C:\Users\Andrea\Documents\Directory\PRG\CSHARP\FINALE FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk - Cahill Edition v.1.0.csproj.GenerateResource.cache
+C:\Users\Andrea\Documents\Directory\PRG\CSHARP\FINALE FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk - Cahill Edition v.1.0.exe
+C:\Users\Andrea\Documents\Directory\PRG\CSHARP\FINALE FINALE PROJECT\Risk - Cahill Edition v.1.0\Risk - Cahill Edition v.1.0\obj\Debug\Risk - Cahill Edition v.1.0.pdb
